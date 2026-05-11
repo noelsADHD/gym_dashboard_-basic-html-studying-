@@ -1,4 +1,7 @@
-#bod{
-
+#body{
+    background-color: burlywood;
     font-style: italic;
+}
+#p1{
+    color:red;
 }
