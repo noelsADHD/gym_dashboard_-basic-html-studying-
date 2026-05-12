@@ -1,35 +1,39 @@
-#p1{
+#p1 {
     color: brown;
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.5em;
-    font-weight:bold;
+    font-weight: bold;
 }
-#p2{
+
+#p2 {
     color: brown;
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.5em;
-    font-weight:bold;
+    font-weight: bold;
 }
-#p3{
+
+#p3 {
     color: brown;
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.5em;
-    font-weight:bold;
+    font-weight: bold;
 }
-h2{
-    border-style:solid ;
-    border-width:3px ;
+
+h2 {
+    border-style: solid;
+    border-width: 3px;
     border-color: aqua;
     border-radius: 3px;
 }
 
-body{
+body {
     background-color: burlywood;
 }
-h1{
+
+h1 {
     font-family: Arial, Helvetica, sans-serif;
 }
-#p3{
-    border-bottom:3px solid
-    
+
+#p3 {
+    border-bottom: 3px solid
 }
